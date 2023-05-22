@@ -1,1 +1,56 @@
 /* your code here */
+  .main_block{
+            height:200px;
+            background-color: black;
+        }
+        .below{
+            height:40px;
+            background-color: blue;
+             
+        }
+        #sub_below{
+            display: inline;
+            color: whitesmoke;
+           
+        }
+        img{
+            width:10px;
+            /* heigth:2;   */
+            display: inline-block;
+        }
+        .media-icons{
+            float: right;
+            padding-right: 15px;
+             position: relative;
+             bottom:80;
+        }
+        .contain{
+            display: flex;
+        }   
+        .parts{
+            
+            margin-left: 3;
+           
+        }
+        p{
+            padding-left:40px;
+        }
+        a{
+            padding-right:10;
+        }
+        #id1{
+       margin-left: 10
+        }
+        #id2{
+            margin-left: 30;
+        }
+        #id3{
+            margin-left:30;
+        }
+         a{
+            color: whitesmoke;
+            text-decoration: none;
+         }
+         li{
+            list-style:none;
+         }
